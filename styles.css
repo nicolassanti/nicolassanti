@@ -19,10 +19,9 @@ p{
 
 
 img{
-    justify-content: center;
+    /* justify-content: center; */
     margin-top: auto;
-    margin-left: 0%;
-    width: 100vw;
+    width: 100%;
     height: 85vh;
     background-image: url('logoinicial.jpg');
 }
